@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Jahid</h1>
+<h1 align="center">Hi 👋, I'm Jahid Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan0734&label=Profile%20views&color=0e75b6&style=flat" alt="hasan0734" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan0734" alt="hasan0734" /></a> </p>
+
+- 🌱 I’m currently learning **Backend with Node js**
+
+- 👨‍💻 All of my projects are available at [https://jahid07.netlify.app/](https://jahid07.netlify.app/)
+
+- 📫 How to reach me **Jahid0734@gmailc.om**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
