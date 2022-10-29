@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jahid07.netlify.app/](https://jahid07.netlify.app/)
 
-- 📫 How to reach me **Jahid0734@gmailc.om**
+- 📫 How to reach me **Jahid0734@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
