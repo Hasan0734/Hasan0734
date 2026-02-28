@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan0734&label=Profile%20views&color=0e75b6&style=flat" alt="hasan0734" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://jahid07.netlify.app/](https://jahid07.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jahid.pro](https://jahid.pro)
 
 - 📫 How to reach me **Jahid0734@gmail.com**
 
